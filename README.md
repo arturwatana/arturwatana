@@ -4,6 +4,8 @@
 
 #### Sou Artur Watanabe
 #### Estou estudando programação há pouco tempo, no momento focado em front-end e mais pra frente explorar um pouco do  back-end. 
+#### Aqui deixarei um pouco do que estou aprendendo.
+#### See ya!
 <!--
 **arturwatana/arturwatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
