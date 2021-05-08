@@ -3,7 +3,7 @@
 
 
 #### Sou Artur Watanabe
-#### Estou estudando programação há pouco tempo, no momento focado em front-end e depois explorar um pouco do  back-end. 
+#### Estou estudando programação há pouco tempo, no momento focado em front-end e depois explorar o back-end. 
 #### Aqui deixarei um pouco do que estou aprendendo.
 #### See ya!
 <!--
