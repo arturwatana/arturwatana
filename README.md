@@ -17,5 +17,10 @@
   <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
 </div>
-  
-  ##
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturwatana&layout=compact)
+
+##
